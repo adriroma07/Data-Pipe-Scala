@@ -1,6 +1,6 @@
 package basic
 
-import com.bosch.test.IsbnEncoder._
+import com.evobanco.test.IsbnEncoder._
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import org.junit.{After, Before, Test}

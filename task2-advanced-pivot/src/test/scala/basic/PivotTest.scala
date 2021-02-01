@@ -1,7 +1,7 @@
 package basic
 
-import com.bosch.test.Pivot._
-import com.bosch.test.Pivot
+import com.evobanco.test.Pivot._
+import com.evobanco.test.Pivot
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import org.junit.{After, Before, Test}
